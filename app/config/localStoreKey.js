@@ -1,0 +1,1 @@
+export const USERINFO = 'USER_CURRENT';
